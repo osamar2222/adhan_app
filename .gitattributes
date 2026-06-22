@@ -1,0 +1,5 @@
+# Prevent Windows Zone.Identifier files (Alternate Data Streams) from being committed
+*Zone.Identifier filter=clean
+
+# Normalize line endings
+* text=auto
